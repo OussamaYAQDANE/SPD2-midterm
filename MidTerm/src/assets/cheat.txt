@@ -1,0 +1,7 @@
+
+.scrollable-div {
+  overflow: auto;
+  position: relative;
+  scrollbar-color: #fff rgb(45, 45, 45);
+  scrollbar-width: thin;
+}
